@@ -9,4 +9,4 @@ Our callsign for use on networks such as Vatsim and IVAO is STP (Stratosphere)
 
 **Stratosphere 777-300ER:**
 
-A.joshua - EVA B16701, Korean Air HL8009
+A.joshua - EVA B16701, Korean Air HL8009, ANA J731A JA734A JA732A
