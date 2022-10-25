@@ -1,6 +1,5 @@
 # Stratosphere Liveries for X-Plane aircraft.
 
-
 Our callsign for use on networks such as Vatsim and IVAO is STP (Stratosphere)
 
 ## Credits:
