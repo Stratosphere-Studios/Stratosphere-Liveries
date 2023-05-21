@@ -1,12 +1,8 @@
-# Stratosphere Liveries for X-Plane aircraft.
+# Stratosphere Liveries
 
-Our callsign for use on networks such as Vatsim and IVAO is STP (Stratosphere)
+Liveries for the Stratosphere Studios B777-300ER for X-Plane
 
 ## Credits:
-
-[Matt726](https://github.com/Matt726-S) -  Stratosphere brand liveries
-
-**Stratosphere 777-300ER:**
 
 A.joshua - EVA (Star Alliance) B16701, Korean Air (50 Years) HL8009, ANA (Star Alliance) J731A (Unesco) JA734A (Tomo Dachi) JA732A
 
