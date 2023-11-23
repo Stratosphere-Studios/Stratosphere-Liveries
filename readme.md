@@ -1,10 +1,13 @@
-# Stratosphere Liveries
+p# Stratosphere Liveries
 
 Liveries for the Stratosphere Studios B777-300ER for X-Plane
 
 ## Contributing:
 
 If you want to add a livery to this repository, just make a pull request or send us a message on [Discord](ttps://discord.com/invite/eU2vWCtmFX). Please check the #livery-requests channel on Discord for ideas on which liveries to make. Thank you!
+
+## Installation:
+You currently cannot download a single livery but must download the entire repository. To do so, click the green "Code" button, then "Download Zip". Then drag whichever liveries you'd like into the 777's "liveries" folder.
 
 ## Credits:
 
