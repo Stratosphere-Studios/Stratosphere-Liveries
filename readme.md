@@ -23,4 +23,4 @@ URL_Link: Korean Air (Skyteam) HL8893
 
 milslachie: United Airlines (Continental style) N2352U
 
-[yelloyelloman](https://github.com/yelloyelloman): Southwind Airlines TC-GRY
+[yelloyelloman](https://github.com/yelloyelloman): Southwind Airlines TC-GRY, Etihad Airways (A6-ETG)
