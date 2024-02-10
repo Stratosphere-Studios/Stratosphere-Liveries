@@ -11,7 +11,7 @@ You currently cannot download a single livery but must download the entire repos
 
 ## Credits:
 
-[SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Air Canada C-FKAU, British Airways G-STBA, China Eastern B-2001, Qatar (Oneworld) A7-BAB, Singapore Airlines 9V-SWW, Swiss Int'l Airlines HB-JNG, Turkish Airlines TC-LJI
+[SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Air Canada C-FKAU, China Eastern B-2001, Qatar (Oneworld) A7-BAB, Singapore Airlines 9V-SWW, Swiss Int'l Airlines HB-JNG
 
 A.joshua: EVA (Star Alliance) B16701, Korean Air (50 Years) HL8009, ANA (Star Alliance) J731A (Unesco) JA734A (Tomo Dachi) JA732A
 
