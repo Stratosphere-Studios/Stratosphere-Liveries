@@ -6,7 +6,7 @@ Liveries for the Stratosphere Studios B777-300ER for X-Plane
 
 If you want to add a livery to this repository, just make a pull request or send us a message on [Discord](https://discord.com/invite/eU2vWCtmFX). Please check the #livery-requests channel on Discord for ideas on which liveries to make. Please follow the same naming convention as the other liveries and make sure you generate icons before making a pull request! Thank you!
 
-### Old Liveries:
+#### Old Liveries:
 If you want to access old liveries to update them, they can be found [here](https://github.com/Stratosphere-Studios/Stratosphere-Liveries/tree/511317b9267678f0e8ab0db492878837f2ce6478).
 
 ## Installation:
@@ -19,7 +19,7 @@ Finally, unzip the livery into your 777's liveries folder as with other aircraft
 ## Credits:
 [SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Singapore Airlines 9V-SWW
 
-### Old Liveries
+#### Old Liveries
 [SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Air Canada C-FKAU, China Eastern B-2001, Qatar (Oneworld) A7-BAB, Singapore Airlines 9V-SWW, Swiss Int'l Airlines HB-JNG
 
 A.joshua: EVA (Star Alliance) B16701, Korean Air (50 Years) HL8009, ANA (Star Alliance) J731A (Unesco) JA734A (Tomo Dachi) JA732A
