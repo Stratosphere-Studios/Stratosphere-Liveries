@@ -18,6 +18,7 @@ Finally, unzip the livery into your 777's liveries folder as with other aircraft
 
 ## Credits:
 [SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Singapore Airlines 9V-SWW
+[O-LOGIC](https://github.com/O-LOGIC): KLM 772, Korean Air H8346, Swiss HB-JNH & American Old
 
 #### Old Liveries
 [SGFlightSimmerYT](https://github.com/SGFlightSimmerYT): Air Canada C-FKAU, China Eastern B-2001, Qatar (Oneworld) A7-BAB, Singapore Airlines 9V-SWW, Swiss Int'l Airlines HB-JNG
